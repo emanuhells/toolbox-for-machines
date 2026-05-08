@@ -1,0 +1,9 @@
+# Ruff linter configuration
+target-version = "py312"
+
+[lint]
+select = ["E", "F", "I"]
+ignore = ["E501"]  # Line length handled by formatter
+
+[lint.per-file-ignores]
+"api/src/toolbox/main.py" = ["E402"]  # Imports after app setup
