@@ -63,6 +63,7 @@ curl -X POST http://localhost:9600/v1/fetch \
   -H "Content-Type: application/json" \
   -d '{"url": "https://blog.rust-lang.org/", "format": "markdown"}'
 ```
+Works with Pi agent.
 
 ### Option B: MCP (Model Context Protocol)
 
