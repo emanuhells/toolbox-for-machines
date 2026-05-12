@@ -1,6 +1,6 @@
 <div align="center">
 
-# toolbox
+# toolbox, for machines
 
 **Eyes, ears, and hands for your AI agent.**
 
