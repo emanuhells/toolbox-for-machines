@@ -79,7 +79,7 @@ Any MCP-compatible client connects with:
 }
 ```
 
-Works with Claude Code, Cursor, Codex, and anything else that speaks MCP.
+Works with Claude Code, Cursor, Codex, Hermes, OpenClaw, OpenCode and anything else that speaks MCP.
 
 ### Option C: Dynamic discovery
 
